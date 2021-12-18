@@ -7,6 +7,10 @@
         {
             "address": "0xFcE4fc21dDad6Cdbf1b24aEE4cA4011CfC26d874",
             "isWhite": "Y"
+        },
+        {
+            "address": "0x16fCf4225C5Ac00682F5A3358D3B4c39ED41A6BA",
+            "isWhite": "Y"
         }
     ]
 }
