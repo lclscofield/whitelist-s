@@ -11,6 +11,10 @@
         {
             "address": "0x16fCf4225C5Ac00682F5A3358D3B4c39ED41A6BA",
             "isWhite": "Y"
+        },
+        {
+            "address": "0xBc497649b612a702c90AE6b6FCe0CC7bb983F1a0",
+            "isWhite": "Y"
         }
     ]
 }
