@@ -23,6 +23,18 @@
         {
             "address": "0x0EbD494065645E983bCc0312B332380f59637336",
             "isWhite": "Y"
+        },
+        {
+            "address": "0x79045dc8A4d82Ab4B70350f198d2628865C704EF",
+            "isWhite": "Y"
+        },
+        {
+            "address": "0x75d0730ccc1acdfc13ed3bc4cb5f22e7f2e71100",
+            "isWhite": "Y"
+        },
+        {
+            "address": "0xbfC94A24218eAdAD5F18B78216CA376e29945785",
+            "isWhite": "Y"
         }
     ]
 }
